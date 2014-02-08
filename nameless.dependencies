@@ -13,7 +13,7 @@
   },
   {
     "remote":       "github",
-    "repository":   "omnirom/android_kernel_samsung_aries",
+    "repository":   "SferaDev/android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
     "revision":     "android-4.4"
   },
