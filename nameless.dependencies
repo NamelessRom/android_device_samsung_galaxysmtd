@@ -7,19 +7,19 @@
   },
   {
     "remote":       "github",
-    "repository":   "AOSPA-legacy/android_device_samsung_aries-common",
+    "repository":   "NamelessRom/android_device_samsung_aries-common",
     "target_path":  "device/samsung/aries-common",
-    "revision":     "kitkat"
+    "revision":     "android-4.4"
   },
   {
     "remote":       "github",
-    "repository":   "SferaDev/android_kernel_samsung_aries",
+    "repository":   "NamelessRom/android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
     "revision":     "android-4.4"
   },
   {
     "remote":       "github",
-    "repository":   "omnirom/android_hardware_samsung",
+    "repository":   "NamelessRom/android_hardware_samsung",
     "target_path":  "hardware/samsung",
     "revision":     "android-4.4"
   }
